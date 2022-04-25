@@ -11,3 +11,4 @@ this should conflict in test-pull-1
 this line should created conflict
 committing and pushing this line
 this is newer line 1 
+this is newer line 2
