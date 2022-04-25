@@ -8,3 +8,5 @@ hello again during remote update
 hello again. testing the submodule conflicts-first commit
 hello testing conflict from test-pull-1
 this should conflict in test-pull-1
+this line should created conflict
+committing and pushing this line
