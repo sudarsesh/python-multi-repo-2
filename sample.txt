@@ -6,4 +6,5 @@ hello from test2 branch
 hello during remote update
 hello again during remote update
 hello again. testing the submodule conflicts-first commit
-this line should create conflict
+hello testing conflict from test-pull-1
+this line should created conflict
